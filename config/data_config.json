@@ -1,0 +1,19 @@
+{
+    "wmap": {
+        "power_spectrum": {
+            "path": "../data/wmap/wmap_tt_spectrum_9yr_v5.txt",
+            "format": "txt",
+            "description": "WMAP 9-year temperature power spectrum"
+        }
+    },
+    "planck": {
+        "power_spectrum": {
+            "path": "../data/planck/planck_tt_spectrum_2018.txt",
+            "format": "txt",
+            "description": "Planck 2018 temperature power spectrum"
+        }
+    },
+    "results": {
+        "base_dir": "../results"
+    }
+}

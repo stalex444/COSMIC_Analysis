@@ -1,0 +1,64 @@
+Information Architecture Test Results
+===================================
+
+Mathematical Constants Analysis:
+-------------------------------
+
+PHI:
+Architecture Score: 0.143238
+Mean Surrogate Score: 0.130266
+Standard Deviation: 0.032453
+Z-score: 0.3997
+P-value: 0.330000
+Significant: No
+Phi-optimality: 0.745108
+
+PI:
+Architecture Score: 0.096568
+Mean Surrogate Score: 0.153671
+Standard Deviation: 0.039547
+Z-score: -1.4439
+P-value: 0.980000
+Significant: No
+Phi-optimality: 0.745108
+
+E:
+Architecture Score: 0.072824
+Mean Surrogate Score: 0.140375
+Standard Deviation: 0.031256
+Z-score: -2.1612
+P-value: 0.990000
+Significant: No
+Phi-optimality: 0.745108
+
+SQRT2:
+Architecture Score: 0.069275
+Mean Surrogate Score: 0.146979
+Standard Deviation: 0.037382
+Z-score: -2.0787
+P-value: 1.000000
+Significant: No
+Phi-optimality: 0.745108
+
+SQRT3:
+Architecture Score: 0.129664
+Mean Surrogate Score: 0.137834
+Standard Deviation: 0.036178
+Z-score: -0.2258
+P-value: 0.530000
+Significant: No
+Phi-optimality: 0.745108
+
+LN2:
+Architecture Score: 0.097834
+Mean Surrogate Score: 0.129191
+Standard Deviation: 0.034187
+Z-score: -0.9172
+P-value: 0.800000
+Significant: No
+Phi-optimality: 0.745108
+
+
+Total runtime: 7.08 seconds
+Number of simulations: 100
+WARNING: THIS WAS RUN IN DEBUG MODE - RESULTS ARE NOT FOR PUBLICATION

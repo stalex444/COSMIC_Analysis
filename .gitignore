@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# Results and data (depending on preference)
+# Uncomment if you want to ignore results
+# results/
+
+# Data files
+data/planck/*.fits
+data/wmap/*.fits
+data/test_maps/*.fits
+*.fits
+*.pkl
+*.npz
+
+# Large result files
+results/*/*.png
+results/*/*/*.png
+results/*/*/*/*.png
+results/*/*/*.pkl
+
+# Keep these excluded until published on Zenodo with proper DOI
+# Add zenodo DOI in README once published
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
